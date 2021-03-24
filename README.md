@@ -1,2 +1,2 @@
 # ICD
-Introdução a Ciência de Dados
+Atividades de Introdução a Ciência de Dados
